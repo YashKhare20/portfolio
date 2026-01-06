@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0161c497.css",
+    "main.js": "/portfolio/static/js/main.5af298bd.js",
+    "static/css/487.630f7b4a.chunk.css": "/portfolio/static/css/487.630f7b4a.chunk.css",
+    "static/js/487.60cd2f09.chunk.js": "/portfolio/static/js/487.60cd2f09.chunk.js",
+    "static/css/990.ddc36b68.chunk.css": "/portfolio/static/css/990.ddc36b68.chunk.css",
+    "static/js/990.e3299a2f.chunk.js": "/portfolio/static/js/990.e3299a2f.chunk.js",
+    "static/media/fakeNewsProject.png": "/portfolio/static/media/fakeNewsProject.bab8988bda82061a1f7c.png",
+    "static/media/yashProfile.png": "/portfolio/static/media/yashProfile.2510081b3d03eb4cb7f8.png",
+    "static/media/xrAvatarProject.png": "/portfolio/static/media/xrAvatarProject.7bc08ff3a30cdf49225a.png",
+    "static/media/himasProject.png": "/portfolio/static/media/himasProject.84bda64f3d8615645241.png",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/mitwpuLogo.png": "/portfolio/static/media/mitwpuLogo.d131f548e4cbb22e3025.png",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/neuLogo.png": "/portfolio/static/media/neuLogo.a858c10455e4724196d2.png",
+    "static/media/gcpCloudEngineer.png": "/portfolio/static/media/gcpCloudEngineer.059778cec64c10668557.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.8ca9de73a1404a30c958.pdf",
+    "static/media/researchIcon.png": "/portfolio/static/media/researchIcon.52e039f46fd97039a08c.png",
+    "static/media/quantiphiLogo.png": "/portfolio/static/media/quantiphiLogo.0bec32725aa73c73d466.png",
+    "static/media/gcpDataEngineer.png": "/portfolio/static/media/gcpDataEngineer.0372a3445c88b658dc03.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/llbeanLogo.png": "/portfolio/static/media/llbeanLogo.060f9b814cb79a255d30.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.0161c497.css.map": "/portfolio/static/css/main.0161c497.css.map",
+    "main.5af298bd.js.map": "/portfolio/static/js/main.5af298bd.js.map",
+    "487.630f7b4a.chunk.css.map": "/portfolio/static/css/487.630f7b4a.chunk.css.map",
+    "487.60cd2f09.chunk.js.map": "/portfolio/static/js/487.60cd2f09.chunk.js.map",
+    "990.ddc36b68.chunk.css.map": "/portfolio/static/css/990.ddc36b68.chunk.css.map",
+    "990.e3299a2f.chunk.js.map": "/portfolio/static/js/990.e3299a2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0161c497.css",
+    "static/js/main.5af298bd.js"
+  ]
+}

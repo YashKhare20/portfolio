@@ -1,0 +1,100 @@
+{
+  "data": {
+    "user": {
+      "name": "Yash Khare",
+      "bio": "",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/92680366?u=60403bed9656837eb87759d97339c16527a7b692&v=4",
+      "location": "Boston",
+      "pinnedItems": {
+        "totalCount": 5,
+        "edges": [
+          {
+            "node": {
+              "name": "Avatar-Controller",
+              "description": null,
+              "forkCount": 1,
+              "stargazers": {
+                "totalCount": 1
+              },
+              "url": "https://github.com/YashKhare20/Avatar-Controller",
+              "id": "R_kgDOMY8jtw",
+              "diskUsage": 387254,
+              "primaryLanguage": {
+                "name": "C#",
+                "color": "#178600"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Dragonfly-Checklist-App",
+              "description": "Dragonfly listing app for reporting dragonfly ecological data",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "url": "https://github.com/YashKhare20/Dragonfly-Checklist-App",
+              "id": "R_kgDOGOyr1w",
+              "diskUsage": 803,
+              "primaryLanguage": {
+                "name": "Java",
+                "color": "#b07219"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Fake-News-Prediction",
+              "description": "Fake News Prediction using LSTM Variants with proposed Web-Extension",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "url": "https://github.com/YashKhare20/Fake-News-Prediction",
+              "id": "R_kgDOGPdSEA",
+              "diskUsage": 4418,
+              "primaryLanguage": {
+                "name": "Jupyter Notebook",
+                "color": "#DA5B0B"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "ImageBase",
+              "description": null,
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "url": "https://github.com/YashKhare20/ImageBase",
+              "id": "R_kgDOLZDLsw",
+              "diskUsage": 69562,
+              "primaryLanguage": {
+                "name": "Jupyter Notebook",
+                "color": "#DA5B0B"
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "Classify.ai",
+              "description": "This a agentic workflow to automate the whole cycle of building and deploying a classification modals using LLMs",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "url": "https://github.com/YashKhare20/Classify.ai",
+              "id": "R_kgDOQ0eKvw",
+              "diskUsage": 96703,
+              "primaryLanguage": {
+                "name": "HTML",
+                "color": "#e34c26"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
