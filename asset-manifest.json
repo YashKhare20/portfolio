@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0161c497.css",
-    "main.js": "/portfolio/static/js/main.5af298bd.js",
+    "main.js": "/portfolio/static/js/main.1ab83734.js",
     "static/css/487.630f7b4a.chunk.css": "/portfolio/static/css/487.630f7b4a.chunk.css",
     "static/js/487.60cd2f09.chunk.js": "/portfolio/static/js/487.60cd2f09.chunk.js",
     "static/css/990.ddc36b68.chunk.css": "/portfolio/static/css/990.ddc36b68.chunk.css",
@@ -15,7 +15,7 @@
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/neuLogo.png": "/portfolio/static/media/neuLogo.a858c10455e4724196d2.png",
     "static/media/gcpCloudEngineer.png": "/portfolio/static/media/gcpCloudEngineer.059778cec64c10668557.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.8ca9de73a1404a30c958.pdf",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.32dd91265d97740426b7.pdf",
     "static/media/researchIcon.png": "/portfolio/static/media/researchIcon.52e039f46fd97039a08c.png",
     "static/media/quantiphiLogo.png": "/portfolio/static/media/quantiphiLogo.0bec32725aa73c73d466.png",
     "static/media/gcpDataEngineer.png": "/portfolio/static/media/gcpDataEngineer.0372a3445c88b658dc03.png",
@@ -25,7 +25,7 @@
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.0161c497.css.map": "/portfolio/static/css/main.0161c497.css.map",
-    "main.5af298bd.js.map": "/portfolio/static/js/main.5af298bd.js.map",
+    "main.1ab83734.js.map": "/portfolio/static/js/main.1ab83734.js.map",
     "487.630f7b4a.chunk.css.map": "/portfolio/static/css/487.630f7b4a.chunk.css.map",
     "487.60cd2f09.chunk.js.map": "/portfolio/static/js/487.60cd2f09.chunk.js.map",
     "990.ddc36b68.chunk.css.map": "/portfolio/static/css/990.ddc36b68.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.0161c497.css",
-    "static/js/main.5af298bd.js"
+    "static/js/main.1ab83734.js"
   ]
 }
