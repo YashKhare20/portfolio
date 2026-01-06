@@ -1,0 +1,91 @@
+/* Custom color theme for Yash Khare Portfolio
+   Theme: Modern Data Engineer - Teal & Deep Navy
+   Clean, professional, tech-forward aesthetic */
+
+// button colors
+$buttonColor: #00b4d8;
+$buttonHover: #0096c7;
+$topButtonHover: #64ffda;
+
+// text colors light theme
+$titleColor: #0a192f;
+$textColor: #1a202c;
+$subTitle: #8892b0;
+$cardSubtitle: #64748b;
+$talkCardSubTitle: #7f8287;
+$blogCardTitleColor: #0a192f;
+
+// text color dark theme
+$textColorDark: #e6f1ff;
+
+// toggle switch colors
+$toggleCheck: #00b4d8;
+$toggleSwitchSliderBG: #233554;
+
+// githubRepo specific colors
+$githubRepoCardLanguageColorBG: #00b4d8;
+$githubRepoCardColor: #64748b;
+$githubRepoCardRepoCardStatsColor: #8892b0;
+$githubRepoCardRepoNameColor: #0a192f;
+$githubProfileCardLocationTS: #64ffda;
+$githubProfileCardBorder: #00b4d8;
+
+// light background colors
+$lightBackground1: #05edf5;
+$lightBackground2: #f8fafc;
+$lightBackground3: #f1f5f9;
+$blogCardContainerColor: #64748b;
+
+// dark background colors
+$darkBackground: #0a192f;
+
+// light theme box shadows
+$lightBoxShadowDark: rgba(10, 25, 47, 0.15);
+$lightBoxShadow: rgba(10, 25, 47, 0.08);
+$lightBoxShadowDarker: rgba(10, 25, 47, 0.25);
+
+// dark theme box shadows
+$darkBoxShadow: #233554;
+$darkBoxShadow2: #64ffda;
+
+// linear gradients
+$experienceCardBlurredDivLG: linear-gradient(
+  rgba(10, 25, 47, 0.4),
+  rgba(10, 25, 47, 0.2)
+);
+$experienceCardBannerLG: linear-gradient(
+  rgba(10, 25, 47, 0.7),
+  rgba(10, 25, 47, 0.5)
+);
+
+// borders
+$progressBarBackground: #e2e8f0;
+$lightBorder1: rgba(100, 255, 218, 0.2);
+$educationCardBorder: #00b4d8;
+
+// hovers
+$achievementCertificateCardHoverDark: rgba(100, 255, 218, 0.1);
+$blogCardHoverSmallColor: rgba(255, 255, 255, 0.9);
+$headerHoverBG: #f1f5f9;
+$contactDetailHoverTS: #8892b0;
+
+// misc backgrounds
+$progressBarSpanBG: #00b4d8;
+$iconBackground: #0a192f;
+$appHeaderBG: #0a192f;
+
+// misc colors
+$skillsColor: #00b4d8;
+$appLink: #64ffda;
+
+// social media icons
+$faceBook: #3b5998;
+$linkedin: #0077b5;
+$github: #333;
+$gitlab: #fca326;
+$google: #ea4335;
+$twitter: #1da1f2;
+$medium: #000;
+$stackoverflow: #f48024;
+$instagram: #c13584;
+$kaggle: #20beff;

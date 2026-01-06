@@ -1,0 +1,46 @@
+name: Build and Deploy Portfolio
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  # Allows manual trigger
+  workflow_dispatch:
+  # Auto-deploy weekly to update GitHub profile data
+  schedule:
+    - cron: "0 12 * * 0"  # Every Sunday at noon UTC
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Project
+        env:
+          REACT_APP_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: YashKhare20
+          USE_GITHUB_DATA: "true"
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        if: github.event_name != 'pull_request'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: 'Deploy portfolio updates'
