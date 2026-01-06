@@ -9,7 +9,7 @@ const ERR = {
   noUserName:
     "GitHub username not found. Please set GITHUB_USERNAME in .env file",
   requestFailed:
-    "GitHub API request failed. Please check your GitHub token and try again."
+    "GitHub API request failed. Please check your GitHub token and try again.",
 };
 
 if (USE_GITHUB_DATA === "true") {
@@ -51,16 +51,16 @@ if (USE_GITHUB_DATA === "true") {
           }
         }
       }
-    `
+    `,
   };
 
   const query_option = {
     method: "POST",
     headers: {
       Authorization: `bearer ${GITHUB_TOKEN}`,
-      "Content-Type": "application/json"
+      "Content-Type": "application/json",
     },
-    body: JSON.stringify(query_pr)
+    body: JSON.stringify(query_pr),
   };
 
   const getDataFromAPI = async () => {
@@ -74,10 +74,7 @@ if (USE_GITHUB_DATA === "true") {
       }
       const data = await response.json();
 
-      fs.writeFileSync(
-        "./public/profile.json",
-        JSON.stringify(data, null, 2)
-      );
+      fs.writeFileSync("./public/profile.json", JSON.stringify(data, null, 2));
       console.log("GitHub profile data successfully fetched and saved!");
     } catch (error) {
       console.error("Error fetching GitHub data:", error.message);
