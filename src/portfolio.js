@@ -216,7 +216,7 @@ const workExperiences = {
 // Open Source Section - Pulls from GitHub
 const openSource = {
   showGithubProfile: "true",
-  display: true,
+  display: false,
 };
 
 // Big Projects Section
